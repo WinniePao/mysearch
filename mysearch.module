@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the MySearch feature.
+ */
+
+include_once('mysearch.features.inc');
